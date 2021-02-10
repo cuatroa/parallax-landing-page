@@ -160,17 +160,17 @@ img {
 }
 
 .home__parallax-img2 {
-  background-image: url("/assets/img/imgm2.png");
+  background-image: url("https://i.ibb.co/9Y2R3tF/imgm2.png");
   z-index: var(--z-tooltip);
 }
 
 .home__parallax-img3 {
-  background-image: url("/assets/img/imgm3.png");
+  background-image: url("https://i.ibb.co/wdWKGdh/imgm3.png");
   z-index: var(--z-fixed);
 }
 
 .home__parallax-img4 {
-  background-image: url("/assets/img/imgm4.png");
+  background-image: url("https://i.ibb.co/zN89ps2/imgm4.png");
   z-index: var(--z-fixed);
 }
 
