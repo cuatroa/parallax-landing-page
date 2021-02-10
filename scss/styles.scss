@@ -124,22 +124,22 @@ img{
         background-position: center;
 
         &-img1{
-            background-image: url('/assets/img/imgm1.png');
+            background-image: url('assets/img/imgm1.png');
             z-index: var(--z-normal);
         }
         
         &-img1{
-            background-image: url('/assets/img/imgm2.png');
+            background-image: url('assets/img/imgm2.png');
             z-index: var(--z-tooltip);
         }
         
         &-img1{
-            background-image: url('/assets/img/imgm3.png');
+            background-image: url('assets/img/imgm3.png');
             z-index: var(--z-fixed);
         }
         
         &-img1{
-            background-image: url('/assets/img/imgm4.png');
+            background-image: url('assets/img/imgm4.png');
             z-index: var(--z-fixed);
         }
     }
