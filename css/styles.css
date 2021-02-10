@@ -155,7 +155,7 @@ img {
 }
 
 .home__parallax-img1 {
-  background-image: url("/assets/img/imgm1.png");
+  background-image: url("https://i.ibb.co/TmjsHts/imgm1.png");
   z-index: var(--z-normal);
 }
 
